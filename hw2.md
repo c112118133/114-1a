@@ -1,6 +1,3 @@
-## (1)PERT/CPM圖
-<img width="1436" height="700" alt="PERTCPM 圖" src="https://github.com/user-attachments/assets/b01a5a24-20f9-484f-87e0-9f2036d8b927" />
-
 | 任務 | 說明 | 需時 (天) | 前置任務 | 任務模式 |
 |-----|-----|-----------|----------|----------|
 | 1 | 研擬計畫 | 1 | - | 起點 → 1 |
@@ -15,6 +12,8 @@
 | 10 | 使用者訓練 | 20 | 7, 8 | 7 → 10 & 8 → 10 |
 | 11 | 使用者測試 | 25 | 9, 10 | 9 → 11 & 10 → 11 |
 
+## (1)PERT/CPM圖
+<img width="1436" height="700" alt="PERTCPM 圖" src="https://github.com/user-attachments/assets/b01a5a24-20f9-484f-87e0-9f2036d8b927" />
 
 ## (2)甘特圖
 <img width="1436" height="804" alt="甘特圖" src="https://github.com/user-attachments/assets/fdbc16d7-6889-495a-9f66-9b71c95fb5ed" />
